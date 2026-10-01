@@ -19,6 +19,14 @@ n8n, LangGraph и останалите средства за реализаци�
 - [AI_AGENTIC_SYSTEMS_FOUNDATIONS_BG.md](foundations/AI_AGENTIC_SYSTEMS_FOUNDATIONS_BG.md) — канонична концептуална рамка.
 - [TERMINOLOGY_EN_BG.md](foundations/TERMINOLOGY_EN_BG.md) — работен английско-български терминологичен речник.
 - [PLAIN_TEXT_DIAGRAMS_BG.md](foundations/PLAIN_TEXT_DIAGRAMS_BG.md) — архив на PlainText (обикновен текст) диаграмите и визуалните модели от основополагащия разговор.
+- [ILLUSTRATION_GUIDE_BG.md](ILLUSTRATION_GUIDE_BG.md) — канонично ръководство за визуалния стил и генерираните илюстрации.
+- [AGENTS.md](AGENTS.md) — задължителни работни правила за AI асистенти, които създават или редактират съдържание в хранилището.
+
+## Работа с AI асистенти
+
+Преди създаване или редактиране на съдържание AI асистентите трябва да прочетат [AGENTS.md](AGENTS.md). При работа с илюстрации задължително се прилага и [ILLUSTRATION_GUIDE_BG.md](ILLUSTRATION_GUIDE_BG.md).
+
+Критично правило: генерираната илюстрация е **визуален asset, а не готов PowerPoint слайд**. Заглавията, текстовите акценти, `(AI)` маркерът, gradient overlay и останалите елементи на слайда се добавят отделно в PowerPoint.
 
 ## Статус
 
